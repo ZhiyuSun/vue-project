@@ -1,6 +1,7 @@
-# cms_project
+# vue project
 
-> A Vue.js project
+> 看了慕课网的教学视频，学习写了一个vue项目。
+> 使用到了webpack和vue-cli，前端用到了mint-ui组件库。
 
 ## Build Setup
 
